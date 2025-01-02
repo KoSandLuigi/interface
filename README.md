@@ -11,7 +11,7 @@ Ce script nécessite `curl` pour fonctionner. Voici comment installer `curl` sur
 ### Debian/Ubuntu
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Debian_logo.png" alt="Debian/Ubuntu" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Debian_logo.png" alt="Debian" width="100"/>
 </p>
 <p align="right">
   <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="100"/>
