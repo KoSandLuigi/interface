@@ -10,8 +10,10 @@ Ce script nécessite `curl` pour fonctionner. Voici comment installer `curl` sur
 
 ### Debian/Ubuntu
 
-![Debian/Ubuntu](https://upload.wikimedia.org/wikipedia/commons/5/5f/Debian_logo.png)
-![Ubuntu](https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png)
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Debian_logo.png" alt="Debian/Ubuntu" width="100"/>
+  <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu" width="100"/>
+</p>
 
 ```bash
 sudo apt update
@@ -54,6 +56,7 @@ sudo yum install curl
 ```
 
 ### Gentoo
+
 ![Gentoo](https://upload.wikimedia.org/wikipedia/commons/4/48/Gentoo-logo.svg)
 
 ```bash
@@ -61,6 +64,7 @@ sudo emerge net-misc/curl
 ```
 
 ### Alpine Linux
+
 ![AlpineLinux](https://upload.wikimedia.org/wikipedia/commons/9/99/Alpine_Linux_logo.svg)
 
 
