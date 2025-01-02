@@ -1,5 +1,6 @@
 # interface
-
+![interface](https://github.com/user-attachments/assets/4a3553d5-cad7-40eb-8d01-f5d1bda09367)  
+Les ip publiques sont volontairement rayées pour respecter la confidentialité.
 ## Description
 
 Ce script en bash affiche les interfaces réseau Wi-Fi et Ethernet ainsi que les adresses IP locales et Internet en ligne de commande (CLI).
